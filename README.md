@@ -7,4 +7,4 @@
 </p>
 
 ![Menu](./Screenshots/Screenshot_1.png)
-![Menu](./Screenshots/Screenshot_1.png)
+![Menu](./Screenshots/Screenshot_2.png)
